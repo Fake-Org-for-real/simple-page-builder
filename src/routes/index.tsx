@@ -18,7 +18,7 @@ function Index() {
   return (
     <main className="flex min-h-screen items-center justify-center bg-background px-6">
       <div className="max-w-xl text-center">
-        <h1 className="text-5xl font-bold tracking-tight text-foreground">Hello Universe</h1>
+        <h1 className="text-5xl font-bold tracking-tight text-foreground">Hello Observable Universe</h1>
         <p className="mt-4 text-lg text-muted-foreground">
           This is a simple page. Tell me what you'd like to put here.
         </p>
